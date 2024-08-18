@@ -14,3 +14,15 @@ Step into the future of urban mobility with our **Bike Sharing Demand Prediction
 - **Linear Regression**: Chosen for its simplicity and effectiveness in modeling continuous data.
 - **Jupyter Notebooks**: Used to document the data exploration, model building, and insights in an interactive format.
 
+## Contributions 🤝
+
+Contributions are welcome! If you have ideas for improvements or enhancements, please create a pull request or open an issue. Your feedback and contributions are valuable in advancing this project and its impact on bike-sharing systems.
+
+## Acknowledgments 🙌
+
+This project was conducted during an internship at **Fox TradingSolutions**, focusing on predicting bike-sharing demand.
+
+Special thanks to the mentors and collaborators at **Fox TradingSolutions** for their invaluable guidance and support in developing and refining this predictive model.
+
+This project was inspired by the challenges and opportunities in urban transportation planning and management.
+
